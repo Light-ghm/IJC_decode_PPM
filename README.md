@@ -8,7 +8,10 @@
 
 - **obrázok** (povinný) - obrázok z ktorého sa bude dešifrovať tajná správa
 
-### Spustenie: ./steg-decode du1-obrazek.ppm
+### Spustenie: 
+
+- make
+- ./steg-decode du1-obrazek.ppm
 
 ## Zadanie:
 
